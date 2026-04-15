@@ -1,4 +1,3 @@
-// comente a logica do codigo para fins de estudo
 package com.senai.backend.artemis_two_school.models;
 
 import jakarta.persistence.Column;
